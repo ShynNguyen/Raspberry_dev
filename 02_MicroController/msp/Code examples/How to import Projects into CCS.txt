@@ -1,0 +1,3 @@
+http://processors.wiki.ti.com/index.php/Importing_Projects_into_CCS
+
+Nen bo project vo workspace dang xai truoc, hoac chon tuy chon "Copy projects into workspace" khi import.
