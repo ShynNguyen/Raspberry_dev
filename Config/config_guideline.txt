@@ -2,3 +2,5 @@ For config mouse speed
 	+ add usbhid.mousepoll=0 to /boot/cmdline.txt
 For config full screen on Pi 3
 	+ sudo nano /boot/config.txt --> uncomment disable_overscan=1
+Useful website to guide how to customize vim
+	+ http://andrewradev.com/2011/08/06/making-vim-pretty-with-custom-colors/
