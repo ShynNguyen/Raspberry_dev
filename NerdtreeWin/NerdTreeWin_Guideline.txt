@@ -1,0 +1,4 @@
+Extract NERD_tree_window.zip
+1. Copy content in doc directory to vim80/doc
+2. Copy content in directory "nerdtree_plugin" to vim80
+3. Copy content in directory "plugin" to vim80
